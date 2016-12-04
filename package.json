@@ -24,6 +24,9 @@
     "address",
     "email address"
   ],
+  "browser": {
+    "dns": false
+  },
   "devDependencies": {
     "code": "^1.5.0",
     "lab": "^5.16.1"
